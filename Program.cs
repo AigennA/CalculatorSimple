@@ -57,9 +57,9 @@ namespace CalculatorMethod
         {
             var sum = num1 * num2;
             Console.WriteLine($"Multiplication result: {sum} ");
-            /*Console.ReadLine();
+            Console.ReadLine();
             Console.Write("Do you want to continue(y/n):");//Users can continue
-            Console.ReadLine();*/
+            Console.ReadLine();
         }
 
 
